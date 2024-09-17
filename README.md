@@ -2,11 +2,10 @@ A protoc binary to `.proto` file convertion for Dofus protocol
 
 # Acknowledgement
 
-protoc binary to .proto based on https://github.com/arkadiyt/protodump
+- [arkadiyt](https://github.com/arkadiyt): protoc binary to .proto based on https://github.com/arkadiyt/protodump
+- [LuaxY](https://github.com/LuaxY): .proto reverse reference from https://github.com/LuaxY/dofus-unity-protocol-builder
 
-.proto reverse reference from https://github.com/LuaxY/dofus-unity-protocol-builder
-
-# Why this over Luaxy's solution
+# Why this over [LuaxY's](https://github.com/LuaxY) solution
 
 First as a learning experience and second is that the binary definition is closer
 to the source of truth than a Json string that's not even documented
